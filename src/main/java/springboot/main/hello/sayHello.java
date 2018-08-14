@@ -1,4 +1,4 @@
-package springboot.hello;
+package springboot.main.hello;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

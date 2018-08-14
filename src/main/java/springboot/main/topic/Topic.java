@@ -1,4 +1,4 @@
-package springboot.topic;
+package springboot.main.topic;
 
 public class Topic {
     private String id;
